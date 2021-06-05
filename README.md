@@ -2,5 +2,10 @@
 Simulation Assignments
 
 The code may be work or not work
-This is not my final result (It will be published in near future)
-Ook.
+
+Simulation problem
+
+Consider a metallic rectangular box with sides 𝑎 and 𝑏 and height 𝑐.
+The side walls and the bottom surface are grounded. The top surface is isolated and kept at a
+constant potential 𝑉0. Determine the potential distribution inside the box. Please plot the
+equipotential lines and flux lines.
